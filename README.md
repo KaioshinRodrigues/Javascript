@@ -1,8 +1,8 @@
 # Javascript
  Codes and sites made by utilizing Javascript
  
-<a href="https://kaioshinrodrigues.github.io/Javascript/AgeChecker/"> An site to check age from birth year</a> <br>
-<a href="https://kaioshinrodrigues.github.io/Javascript/Counting/"> An site to count to a number in any pace</a> <br>
-<a href="https://kaioshinrodrigues.github.io/Javascript/MultiplicationTable/"> An site of a simple multiplication table</a> <br>
-<a href="https://kaioshinrodrigues.github.io/Javascript/NumberAnalyzer/"> An site to get number properties</a> <br>
-<a href="https://kaioshinrodrigues.github.io/Javascript/TimeofDayGradients/"> An site that shows the current system time with changing gradient accordinggly to it</a> <br>
+<a href="https://kaioshinrodrigues.github.io/Javascript/tree/main/AgeChecker/"> Open AgeChecker to check age from birth year</a> <br>
+<a href="https://kaioshinrodrigues.github.io/Javascript/tree/main/Counting/"> Open Counting to count to a number in any pace</a> <br>
+<a href="https://kaioshinrodrigues.github.io/Javascript/tree/main/MultiplicationTable/"> Open MultiplicationTable to use a simple multiplication table</a> <br>
+<a href="https://kaioshinrodrigues.github.io/Javascript/tree/main/NumberAnalyzer/"> Open NumberAnalyzer to see number properties</a> <br>
+<a href="https://kaioshinrodrigues.github.io/Javascript/tree/main/TimeofDayGradients/"> Open TimeofDayGradients to see the current system</a> <br>
